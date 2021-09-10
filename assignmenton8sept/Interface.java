@@ -21,7 +21,7 @@ class A11 implements Add{
 	}
 }
 
-class A1{
+public class Interface{
 	public static void main(String args[]) {
 		Sum m = new A11();
 		m.sum();
